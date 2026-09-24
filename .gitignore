@@ -1,2 +1,3 @@
 GenAI++AWS+Bedrock+RAG+Langchain.pdf
-*.png
+/project/*.png
+cred.md
